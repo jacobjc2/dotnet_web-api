@@ -1,0 +1,1 @@
+Example Dotnet Web API connecting to SQLite DB and using DTO to hide date fields
